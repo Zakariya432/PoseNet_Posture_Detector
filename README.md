@@ -3,9 +3,9 @@
 # where p5.js is a JavaScript library for creative coding.
 
 # How to import p5.js
+# <script src="https://cdn.jsdelivr.net/npm/p5@1.6.0/lib/p5.js"></script>
 
-
- # function setup() {
+  function setup() {
   createCanvas(400, 400);
 }
 
