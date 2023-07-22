@@ -1,4 +1,4 @@
-# PoseNet_Posture_Detector
+# PoseNet_Posture_Detector(i;e Position or Gesture Detector)
 # A Deep learning project using ml5.js and p5.js
 # where p5.js is a JavaScript library for creative coding.
 
